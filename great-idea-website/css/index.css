@@ -64,3 +64,155 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+/* body {},
+    border-style: solid;
+    border-color: grey;  */
+.box {
+    width: 100px;
+    height: 100px;
+    background: white;
+    margin: 8px;
+    color: gray;
+    text-align: center;
+    padding-top: 40px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+.navigation {
+    margin-left: 215px;
+}
+.box1 {
+    display: inline-block;
+}
+.box2 {
+    display: inline-block;
+}
+.box3 {
+    display: inline-block;
+}
+.box4 {
+    display: inline-block;
+}
+.box5 {
+    display: inline-block;
+}
+.box6 {
+    display: inline-block;
+}
+.content {
+    background: white;
+    width: 395px;
+    height: 100px;
+    padding: 20px;
+    box-sizing: content-box;
+    /* border: 1px solid black;  */
+    margin: 0px;
+    margin-left: 0px;
+    
+    }
+.content_features {
+    display: inline-block;
+    margin-left: 230px;
+    font-size: 1em;
+    width: 395px;
+    /* border: 2px solid black; */
+    
+   
+}
+.content_about {
+    display: inline-block;
+    margin-left: 30px;
+    font-size: 1em;
+}
+.middle-img {
+    margin-left: 232px;
+}
+p {
+    padding: 5px;
+}
+/* <----- Section 2 ---> */
+.content2 {
+    background: white;
+    width: 250px;
+    height: 100px;
+    padding: 20px;
+    box-sizing: content-box;
+    /* border: 1px solid black;  */
+    margin: 0px;
+    /* margin-left: 230px; */
+    /* display: inline; */
+}
+.content_services {
+    display:inline-block;
+    height: 150px;
+    margin-left: 230px;
+}
+.content_product {
+    display:inline-block;
+    height: 150px;
+}
+.content_vision {
+    display:inline-block;
+    height: 150px;
+}
+ hr {
+   width: 900px; 
+   margin-left: 225px; 
+ }
+ /* <---- Section 3 ---> */
+.content3 {
+    background: white;
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    box-sizing: content-box;
+    /* border: 1px solid black;  */
+    margin: 0px;
+    margin-left: 230px;
+    /* display: inline; */
+}
+}
+.content_contact {
+    display:inline-block;
+    height: 150px;   
+    }
+
+.copyright {
+    text-align: center;
+}
+/* <---- IMG Section ---> */
+
+/* <--- Innovation on Demand----> */
+.content4 {
+    background: white;
+    width: 250px;
+    height: 0px;
+    padding: 20px;
+    /* box-sizing: border-box; */
+    /* border: 1px solid black;  */
+    margin: 0px;
+    /* margin-left: 230px; */
+    display: inline-block;
+    margin-left: 275px;
+}
+.iod {
+    display:inline-block;
+    height: 150px; 
+    margin-left: 230px;  
+    font-size: 5em;
+   
+}
+.codeimg {
+    display:inline-block;
+    /* height: 150px;    */
+ }
+.buttonGS {
+    display: inline-block;
+    height: 30px; 
+    margin-left: 285px;  
+    font-size: 1em;
+    border: 2px solid gray;
+    width: 150px;
+    text-align: center;
+    box-sizing: border-box;
+}
